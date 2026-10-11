@@ -6,7 +6,7 @@ I am a Detail-oriented Web Developer crafting clean, responsive, high-performanc
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [Terrace](http://terrace-lovat.vercel.app/)
 * ✉️  You can contact me at [elliot.lola@gmail.com](mailto:elliot.lola@gmail.com)
-* 🚀  I'm currently working on [Cadence](http://cadence-eta-azure.vercel.app/)
+* 🚀  I'm currently working on [Vantage Roastery](http://vantageroastery.vercel.app/)
 * 🧠  I'm currently learning Backend
 * 👥  I'm looking to collaborate on Building Web Application
 
